@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesse Mensah
-- 👨🏿‍💻 I am a Data Analyst • UI/UX Designer. 
+- 👨🏿‍💻 I am a Data Analyst.
 - 📫 Reach me on jessemensah21@gmail.com or @yhchale on twitter. 
 
 <!---
